@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 28" fill="#1A1A1A">
+  <rect x="2" y="4" width="10" height="10" rx="3" fill="#1A1A1A"/>
+  <rect x="16" y="4" width="10" height="10" rx="3" fill="#1A1A1A" opacity="0.5"/>
+  <rect x="2" y="18" width="10" height="10" rx="3" fill="#1A1A1A" opacity="0.5"/>
+  <rect x="16" y="18" width="10" height="10" rx="3" fill="#1A1A1A" opacity="0.3"/>
+  <text x="34" y="20" font-family="Plus Jakarta Sans, sans-serif" font-size="18" font-weight="600">Softr</text>
+</svg>
